@@ -1,6 +1,6 @@
-### bostonhousepricing
+ # bostonhousepricing
 
-### Software and Tools Requirements
+# Software and Tools Requirements
 
 1. [Github_Account]( https://github.com)
 2. [HerokuAccount](https://heroku.com)
@@ -15,5 +15,10 @@ git config --global user.name
 git config --global user.email
 git add .
 git status
-'''
+git commit -m 'message'
+git push origin main
 
+Download the Postman 
+Include the link in the 'Post' part
+In the body use raw data for JSON/ Check the correct json in the json validator
+'''
